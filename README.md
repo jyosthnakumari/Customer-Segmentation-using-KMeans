@@ -10,12 +10,12 @@ The goal is to identify distinct customer groups, which can help businesses in *
 - **Name:** Mall Customers Dataset  
 - **Source:** [Kaggle Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)  
 - **Features:**
-| Column | Description |
-|--------|-------------|
-| CustomerID | Unique identifier for each customer |
-| Gender | Male or Female |
-| Age | Age of the customer |
-| Annual Income (k$) | Income of the customer in thousands |
+| Column                 | Description                               |
+|------------------------|-------------------------------------------|
+| CustomerID             | Unique identifier for each customer       |
+| Gender                 | Male or Female                            |
+| Age                    | Age of the customer                       |
+| Annual Income(k$)      | Income of the customer in thousands       |
 | Spending Score (1-100) | Score assigned based on customer behavior |
 
 ---
